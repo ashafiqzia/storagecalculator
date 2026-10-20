@@ -1,14 +1,14 @@
-\# Storage Unit Converter
+# Storage Unit Converter - Branched Version
 
 
 
-\## Purpose
+## Purpose
 
 This is my first Python project. It converts storage from GB to MB and KB.
 
 
 
-\## How to Run
+## How to Run
 
 1\. Install Python.
 
@@ -18,7 +18,7 @@ This is my first Python project. It converts storage from GB to MB and KB.
 
 
 
-\## Example Input/Output
+## Example Input/Output
 
 
 
@@ -36,7 +36,7 @@ Storage in KB: 2097152.0
 
 
 
-\## Author Information
+## Author Information
 
 \- Name: Ahmad Shafiq Zia
 
@@ -44,7 +44,7 @@ Storage in KB: 2097152.0
 
 
 
-\## What I Learned
+## What I Learned
 
 I learned how to take input, do calculations, and print results using Python.
 
