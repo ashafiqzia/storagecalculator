@@ -1,6 +1,4 @@
-# Storage Unit Converter - Main Version
-
-
+# Storage Unit Converter - Merged Version
 
 ## Purpose
 
@@ -36,7 +34,7 @@ Storage in KB: 2097152.0
 
 
 
-\## Author Information
+## Author Information
 
 \- Name: Ahmad Shafiq Zia
 
@@ -44,7 +42,7 @@ Storage in KB: 2097152.0
 
 
 
-\## What I Learned
+## What I Learned
 
 I learned how to take input, do calculations, and print results using Python.
 

@@ -5,3 +5,4 @@ storage_kb = storage_mb * 1024
 
 print("Storage in MB:", storage_mb)
 print("Storage in KB:", storage_kb)
+print("That's a lot of storage")
